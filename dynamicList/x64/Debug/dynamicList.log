@@ -1,0 +1,3 @@
+﻿  dynamicList.cpp
+C:\Users\ilya-\Desktop\methods\algorithms2\dynamicList\dynamicList.cpp(106): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  dynamicList.vcxproj -> C:\Users\ilya-\Desktop\methods\algorithms2\x64\Debug\dynamicList.exe
